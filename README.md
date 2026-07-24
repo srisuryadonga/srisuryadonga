@@ -12,6 +12,15 @@
 
 <hr />
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srisuryadonga&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisuryadonga&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
 ## 🚀 About Me
 
 - 🎓 **B.Tech Student** in **Artificial Intelligence & Data Science**, specializing in **Python Data Analytics, Generative AI, and AI Full-Stack Development**.
