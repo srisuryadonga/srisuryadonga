@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Sri Surya Donga</h1>
-  <h3>Aspiring Data Analyst</h3>
+  <h3>Aspiring Data Analyst & GenAI with AI Full-Stack Developer</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/surya-donga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -112,16 +112,6 @@ I thrive in collaborative environments and am committed to continuous learning i
   <b>Email:</b> <a href="mailto:srisuryadonga@gmail.com">srisuryadonga@gmail.com</a> |
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/surya-donga">surya-donga</a>
 </p>
-
----
-
-## 💬 Quotes to Inspire
-
-> *"Data is the new oil, and insights are the new gold."*
-
-> *"The best way to predict the future is to invent it."*
-
-> *"In data we trust, but first, we validate."*
 
 ---
 
