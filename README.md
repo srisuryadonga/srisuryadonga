@@ -21,6 +21,13 @@
 
 ---
 
+## 🔗 Currently Learning
+
+- 🎯 **Data Analytics** - Deepening expertise in advanced analytics, data modeling, and business intelligence tools
+- 📈 Exploring advanced visualization techniques and predictive modeling
+
+---
+
 ## 💡 What I Do
 
 I am a versatile developer and data enthusiast with a passion for leveraging technology to solve real-world problems. My expertise spans:
