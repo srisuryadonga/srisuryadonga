@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Sri Surya Donga</h1>
-  <h3>Data Analyst & AI Full-Stack / GenAI Developer</h3>
+  <h3>Aspiring Data Analyst</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/surya-donga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
