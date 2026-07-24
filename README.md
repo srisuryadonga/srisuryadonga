@@ -112,3 +112,20 @@ I thrive in collaborative environments and am committed to continuous learning i
   <b>Email:</b> <a href="mailto:srisuryadonga@gmail.com">srisuryadonga@gmail.com</a> |
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/surya-donga">surya-donga</a>
 </p>
+
+---
+
+## 💬 Quotes to Inspire
+
+> *"Data is the new oil, and insights are the new gold."*
+
+> *"The best way to predict the future is to invent it."*
+
+> *"In data we trust, but first, we validate."*
+
+---
+
+<div align="center">
+  <h3>✨ Thank you for viewing! ✨</h3>
+  <p><i>Feel free to connect with me, explore my projects, and let's collaborate to create impactful data-driven solutions!</i></p>
+</div>
