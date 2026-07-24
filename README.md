@@ -12,13 +12,6 @@
 
 <hr />
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srisuryadonga&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisuryadonga&theme=radical" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -103,6 +96,15 @@ I thrive in collaborative environments and am committed to continuous learning i
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=srisuryadonga&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisuryadonga&theme=radical" alt="GitHub Streak" />
+  </div>
+</div>
 
 ---
 
