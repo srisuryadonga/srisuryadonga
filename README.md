@@ -21,6 +21,19 @@
 
 ---
 
+## 💡 What I Do
+
+I am a versatile developer and data enthusiast with a passion for leveraging technology to solve real-world problems. My expertise spans:
+
+- **Data Analytics & Visualization**: Transforming raw data into compelling insights using Power BI, Tableau, and advanced SQL queries.
+- **Generative AI & Machine Learning**: Building intelligent systems with LLMs, implementing RAG pipelines, and deploying AI-powered applications.
+- **Full-Stack Development**: Creating seamless end-to-end solutions with FastAPI, modern frontend technologies, and cloud-ready architectures.
+- **Research & Innovation**: Contributing to academic research on AI optimization, NLP, and intelligent automation.
+
+I thrive in collaborative environments and am committed to continuous learning in the rapidly evolving AI and data science landscape.
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### 📊 Data Analytics & Data Science
